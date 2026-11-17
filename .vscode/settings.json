@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "c_cpp_properties.json": "jsonc"
+    },
+    "C_Cpp.default.configurationProvider": "platformio.platformio-ide",
+    "C_Cpp.default.compileCommands": "${workspaceFolder}/compile_commands.json"
+}
